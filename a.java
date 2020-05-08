@@ -7,7 +7,7 @@ public class a {
         String s1=new String();
         s1.toString();
 
-        System.out.println();
+        System.out.println(测试ceshi);
 
     }
 }
